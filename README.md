@@ -1,1 +1,1 @@
-# functionary_hotel_planning
+# functionary_tutorials
